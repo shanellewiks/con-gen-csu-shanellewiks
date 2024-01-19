@@ -1,0 +1,74 @@
+---
+title: "About Me"
+author: "Shanelle A. Wikramanayake"
+output:
+  html_document:
+    toc: yes
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+bibliography: references.bib
+---
+
+# Who I am and where I came from
+
+Growing up in Sri Lanka, I was surrounded by amazing biodiversity. I especially loved small ectotherms because they are particularly unique and beautiful (but also I am short, and they’re at at eye-level with me, so I notice them often). Unfortunately, habitat fragmentation and climate change are threatening these organisms. 
+
+I went to the [University of Washington](https://www.washington.edu/) and majored in Biology. I took a class on Physiological Ecology and Evolution, and realised I could use integrative research to conserve the wildlife I grew up around. I did a research project under the guidance of [Dr. Adam Leaché](https://faculty.washington.edu/leache/wordpress/) on the population genetics and phylogeography of the endangered and endemic Sri Lankan Rough-nosed horned lizard (_Ceratophora aspera_). 
+
+I did my M.S at [California State University, Northridge](https://w2.csun.edu/), where I studied the role of behavioural predating reproductive isolation on speciation in the highly variable Red-eyed treefrog (_Agalychnis callidryas_), under the guidance of [Jeanne Robertson](https://jrobertsonlab.wordpress.com/). 
+
+Now, I am a PhD student in the [Funk Lab](https://sites.google.com/view/funklab/home?authuser=0) at [Colorado State University, Fort Collins](https://www.colostate.edu/), where I am studying the impacts of habitat fragmentation and climate change on endemic species from the wet zone rainforests of Sri Lanka. I am excited to get experience in integrating physiology and genetic tools to conserve the species I love. I am taking this class because it’s an opportunity to get structured experience with bioinformatics, which is essential for conservation genetics.
+ 
+
+Some of my hobbies are:
+
+1. Nature photography
+1. Digital Art
+1. Jewellery making 
+
+# Research Interests
+
+I am broadly interested in evolutionary ecology. I am especially interested in fragmentation and climate change effects and local adaptation in tropical ecosystems, and using tools in genomics and physiology to come up with holistic conservation management plans. 
+
+## Influential papers
+
+@manel2003landscape illustrates how landscape genetics combines the fields of landscape ecology and population genetics are integrated to describe how environmental and landscape factors affect patterns of gene flow across landscapes. Landscape genetics can be incredibly usefl for conservation management as it allows identification factors that facilitate or impede geneflow for organisms or ecological corridors for species specific management [@segelbacher2010applications]. Thus, I hope to use these methods to test the effects of forest fragmentation and environment/climate on the Sri Lankan Lyre-headed lizard [@bruggeman2010relative].  
+
+## The mathematics behind my research
+
+As a MS student I calculated behavioral premating reproductive isolation in red-eyed treefrogs. We used behavioural trials to quantify female courtship in response to male stimulus treatment groups that represented lineages that spanned the time continuum for this species. The treatment groups included a male model and male calls as visual and accoustic cues. 
+$$
+\cos\theta + i\sin\theta = e^{i\theta}
+$$
+or here:
+$$
+\lim_{n\rightarrow \infty} \frac{1}{n}\sum_{i=1}^n X_i = EX
+$$
+
+## My computing experience
+
+Describe any experience you have with any programming languages.
+Include a snippet of code in two different languages using a
+non-evaluated code block.  This can be something you have previously
+written, or, if you don't have any, then find and copy a few lines of code
+off the web.
+
+## What I hope to get out of this class
+
+Give me a bullet list of three things:
+
+* This
+* That
+* Another
+
+# Evaluating some R code
+
+Here, please evaluate some R code to make a plot or a figure.
+The goal here is just to realize that you can imbed R code
+within fenced code blocks and get the output rendered into
+the document.
+
+# Citations
+
